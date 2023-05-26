@@ -141,7 +141,7 @@ public class GUIManual extends JFrame {
         // Pinta y ajusta diseño del contenedor de contenidos
         pintarPanelDerecho();
         
-        setTitle("Mundial");
+        setTitle("Mundial Entrada a github");
         pack();
         setVisible(true);
     }
